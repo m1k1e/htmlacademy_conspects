@@ -1,0 +1,19 @@
+1.Борьба с пробелами между блочно-строчными элементами
+https://htmlacademy.ru/blog/boost/frontend/fighting-the-space-between-inline-block-elements
+
+В статье описаны примеры, того как бороться с отступами между блочно-строчными элементами и проблемами возникающими при этом.
+
+2.https://htmlacademy.ru/blog/boost/frontend/why-jquery
+
+https://htmlacademy.ru/blog/boost/frontend/how-to-test
+
+
+https://css-live.ru/articles/zagadochnye-otstupy-mezhdu-inlajn-blokami.html
+
+https://yellowshoe.com.au/standards/
+
+http://bonsaiden.github.io/JavaScript-Garden/ru/
+
+https://htmlacademy.ru/demos/2#6
+
+
