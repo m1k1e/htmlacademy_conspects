@@ -18,4 +18,52 @@ https://css-live.ru/articles/zagadochnye-otstupy-mezhdu-inlajn-blokami.html
 
 7. https://htmlacademy.ru/demos/2#6
 
+8. Различия между :nth-child и :nth-of-type
+https://habr.com/ru/post/119139/
+
+В статье показана на примерах разница между работой тегов :nth-child и :nth-of-type. Так же описывается проблемма с поддержкой тега :nth-of-type в различных браузерах.
+
+9. Используйте свойство box-sizing
+http://simonenko.su/32197993404/use-css3-box-sizing
+
+В статье описано в каких случаях целесообразно применять свойство box-sizing и какие проблемы в связи с его применением могут возникать.
+
+10.Сайт на котором можно посмотреть поддержку различных свойств и тегов всеми существующими браузерами. 
+https://caniuse.com/
+
+11. Сайт разрабтчика вэб стандартов
+https://www.w3.org/
+
+12. Сайт с материалами по веб-технологиям от разработчиков браузера мозила
+https://developer.mozilla.org/ru/
+
+13. Сайт с задачами по javascript
+https://edabit.com/
+
+
+14. Раскладка в CSS: float 
+https://softwaremaniacs.org/blog/2005/08/27/css-layout-flow/
+
+В  статье подробно описаны приемы и проблемы позиционирвания элементов при помощи свойства flow.
+
+ 
+
+https://softwaremaniacs.org/blog/2005/09/05/css-layout-flow-margins/
+https://softwaremaniacs.org/blog/2006/01/17/css-layout-example/
+https://softwaremaniacs.org/blog/2006/06/14/css-layout-flex/
+https://softwaremaniacs.org/blog/2006/11/18/positioned-layout/
+https://css-tricks.com/
+http://animation.kaustubhmenon.com/
+
+Flexbox
+1. Как работает CSS Flexbox: наглядное введение в систему компоновки элементов на веб-странице
+https://tproger.ru/translations/how-css-flexbox-works/
+
+ В статье на примерах описано как работают основные свойства flexbox. Все примеры динамические.
+
+2. Полное руководство по Flexbox
+https://habr.com/ru/post/467049/
+
+Подробное описание свойств и работы с Flexbox. 
+
 
